@@ -61,3 +61,5 @@ export const isExpressionColor = (
 ): color is keyof typeof expressionColors => {
   return color in expressionColors;
 };
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=expressionColors.ts
